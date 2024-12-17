@@ -12,9 +12,9 @@ const chalk = require('chalk')
 //contact details
 global.ownernomer = "33619052663"
 global.ownername = "Nagisa Shiota"
-global.ytname = "YT: GlobalTechInfo"
-global.socialm = "GitHub: GlobalTechInfo"
-global.location = "Pakistan, Karachi, Karachi"
+global.ytname = "j'en ai pas"
+global.socialm = "https://github.com/galioux/XeonBug-V8"
+global.location = "France"
 
 global.ownernumber = '33619052663'  //creator number
 global.ownername = 'Nagisa Shiota' //owner name
@@ -22,7 +22,7 @@ global.botname = 'XeonBug-V8' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'GlobalTech\n\nContact: +923444844060'
+global.author = 'Nagisa Shiota
 
 //console view/theme
 global.themeemoji = '🪀'
